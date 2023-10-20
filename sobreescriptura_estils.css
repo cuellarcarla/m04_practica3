@@ -1,0 +1,53 @@
+/*1. color general de la lletra negra*/
+
+body{
+    color: black;
+}
+#container{
+    color: black;
+}
+h2,h3  {
+    color: black;
+}
+a{
+    color: black;
+}
+.paragraf2 strong{
+    color:black;
+}
+.estil2{
+    color:black;
+}
+.color_lila{
+    color: black;
+}
+strong{
+    color:black;
+}
+.estil2{
+    color:black;
+}
+/*2. titol nivell 1 fons blanc lletra gris*/
+#titol-pagina {
+    background-color: white;
+    color: grey;
+}
+
+/*3. tots els strong en color verd i subratllats*/
+.paragraf1, .paragraf2 strong{
+    color: green;
+    text-decoration: none;
+}
+
+/*4. enllaços del paràgraf2 en italica*/
+.paragraf2 {
+    font-style: italic;
+}
+
+/*5. footer general del web centrat i lletra de 10px*/
+footer {
+    text-align: center;
+    font-weight: 10px;
+}
+
+/*6. Canvia l'ordre de, càrrega dels fitxers i mira què passa. Sabries modificar el teu codi per a que se seguís veient igual que abans de canviar l'ordre?*/
