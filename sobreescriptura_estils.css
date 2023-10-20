@@ -51,3 +51,6 @@ footer {
 }
 
 /*6. Canvia l'ordre de, càrrega dels fitxers i mira què passa. Sabries modificar el teu codi per a que se seguís veient igual que abans de canviar l'ordre?*/
+
+/*El orden en que escrimos los estilos es muy importante ya que a la hora de aplicarlo al html, aplica el ultimo estilo*/
+/*Por ejempli h1,h2,h3 donde aplicamos un color y luego creamos otra solo con h1 de color negro, entonces al h1 se le aplicara el ultimp estilo escrito*/
